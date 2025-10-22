@@ -1,8 +1,8 @@
 # 🕒 Delhi Air Quality — Time Series Forecasting (2015–2020)
 
-*Technion – Israel Institute of Technology*
-*Course – Time Series
-**Authors:** Naomie Melloul · Jeremy Jornet
+> *Technion – Israel Institute of Technology*  
+> *Course – Time Series*  
+> **Authors:** Naomie Melloul · Jeremy Jornet
 
 ---
 
