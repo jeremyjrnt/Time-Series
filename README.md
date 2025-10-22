@@ -169,3 +169,27 @@ Two methods were applied:
 ---
 
 ## 📁 Repo Structure
+
+.
+├── README.md                     # Project documentation and overview
+├── delhi-air-quality.ipynb       # Main Jupyter notebook with full analysis and modeling
+└── delhi-air-quality.pdf         # Final project report (Technion submission)
+
+---
+
+## 💡 Insights & Conclusions
+
+- AQI shows **strong annual seasonality** and moderate **weekday effect**.  
+- **SARIMA** and **SARIMAX** captured trends effectively, outperforming Prophet and NN in RMSE/MAE.  
+- Adding **dew point** as an exogenous feature improved predictions.  
+- A **structural shift** around 2017 indicates potential environmental or policy-driven change.
+
+---
+
+## 📚 References
+
+- Box, G.E.P., Jenkins, G.M., Reinsel, G.C. (2015). *Time Series Analysis: Forecasting and Control.*  
+- Hyndman, R.J., Athanasopoulos, G. (2021). *Forecasting: Principles and Practice.*  
+- Taylor, S.J., Letham, B. (2018). *Forecasting at Scale.* *The American Statistician.*  
+- Xu, Y., Zhu, X. (2023). *Recognizing Dew as an Indicator and an Improver of Near-Surface Air Quality.*  
+- Goodfellow, I., Bengio, Y., Courville, A. (2016). *Deep Learning.* MIT Press.
